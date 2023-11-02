@@ -15,8 +15,6 @@
 #define ARROW 3
 #define TMUX 4
 
-#define TBLE_ORTHO   1
-
 
 // Using layer taps on thumbs, having quick tap as well helps w/ repeating space/backspace
 &lt { quick_tap_ms = <200>; };
@@ -105,7 +103,6 @@
  &trans     &trans     &trans     &trans     &trans     &trans  &trans  &trans     &trans     &trans           &trans     &trans
             >;
         };
-
 
     };
 };

@@ -32,3 +32,4 @@ And then comment out the line in `config/lpgalaxy_blank_slate.conf`:
 ```
 # CONFIG_ZMK_PM_SOFT_OFF=y
 ```
+
